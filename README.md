@@ -44,7 +44,7 @@ User → S3 Static Website → API Gateway → Lambda Function
 - Created AWS Lambda function using Python
 - Returned JSON response through API Gateway
 - Backend logic executed serverlessly
-- 
+  
 <img width="941" height="329" alt="lambda" src="https://github.com/user-attachments/assets/9534692f-64fe-45b0-a250-f2640fbf771e" />
 <img width="940" height="417" alt="lambda-code" src="https://github.com/user-attachments/assets/e573224b-87ed-43a0-8c87-79c7f51c9876" />
 
@@ -55,7 +55,7 @@ User → S3 Static Website → API Gateway → Lambda Function
 - Created HTTP API Gateway
 - Configured GET route `/hello`
 - Connected API Gateway with Lambda function
-- 
+  
 <img width="937" height="307" alt="api" src="https://github.com/user-attachments/assets/e1678be1-c612-4a26-bda3-d983aff75869" />
 <img width="940" height="383" alt="api-route" src="https://github.com/user-attachments/assets/313f33cc-f3a1-424e-8306-20f1df4318db" />
 <img width="934" height="381" alt="api-stage" src="https://github.com/user-attachments/assets/183233d7-0cff-4144-9e57-d1df8d41cd49" />
@@ -67,7 +67,7 @@ User → S3 Static Website → API Gateway → Lambda Function
 
 - Successfully invoked Lambda through API Gateway
 - API returned JSON response
-- 
+  
 <img width="947" height="384" alt="invoke-url" src="https://github.com/user-attachments/assets/6f3653af-2d80-4b31-93d3-8c4328c3b76d" />
 
 
